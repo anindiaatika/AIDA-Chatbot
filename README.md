@@ -22,7 +22,7 @@ Proyek ini dibuat sebagai final project program *Hacktiv8 — Maju Bersama AI*, 
 ```python
 !pip install groq gradio
 
-## 4. Tampilan UI Chatbot
+TAMPILAN UI CHATBOT
 <img width="1920" height="1080" alt="tampilan UI pertanyaan detail" src="https://github.com/user-attachments/assets/a8e9f6aa-1faa-4ca3-bb5f-95dc944ee5a1" />
 <img width="1920" height="1080" alt="tampilan UI sebelum ditanya" src="https://github.com/user-attachments/assets/282cd22b-c16f-4381-a32a-6ce3d0a5be38" />
 <img width="1920" height="1080" alt="tampilan UI pertanyaan singkat" src="https://github.com/user-attachments/assets/af6a30f5-0fe3-44f6-8753-169b375504ef" />
