@@ -21,3 +21,6 @@ Proyek ini dibuat sebagai final project program *Hacktiv8 — Maju Bersama AI*, 
 2. Jalankan perintah berikut untuk memasang dependensi:
 ```python
 !pip install groq gradio
+
+## 4. Tampilan UI Chatbot
+<img width="1794" height="734" alt="Screenshot 2025-10-20 024728" src="https://github.com/user-attachments/assets/7a24cf80-c8cc-40e9-bf8f-f24871f13cb0" />
